@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/rahul/a/devel -DCMAKE_INSTALL_PREFIX=/home/rahul/a/install -G Unix Makefiles
