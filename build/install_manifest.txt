@@ -1,0 +1,10 @@
+/home/rahul/a/install/_setup_util.py
+/home/rahul/a/install/env.sh
+/home/rahul/a/install/setup.bash
+/home/rahul/a/install/setup.sh
+/home/rahul/a/install/setup.zsh
+/home/rahul/a/install/.rosinstall
+/home/rahul/a/install/lib/pkgconfig/beginner_tutorials.pc
+/home/rahul/a/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/rahul/a/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/rahul/a/install/share/beginner_tutorials/package.xml
